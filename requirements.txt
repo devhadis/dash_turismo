@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+requests
+urllib3
+plotly
+scikit-learn
